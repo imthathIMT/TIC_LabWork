@@ -1,0 +1,11 @@
+C:\Users\User\OneDrive\Desktop\TIC\WindowsFormsApp_TIC\WindowsFormsApp_TIC\bin\Debug\WindowsFormsApp_TIC.exe
+C:\Users\User\OneDrive\Desktop\TIC\WindowsFormsApp_TIC\WindowsFormsApp_TIC\bin\Debug\WindowsFormsApp_TIC.exe.config
+C:\Users\User\OneDrive\Desktop\TIC\WindowsFormsApp_TIC\WindowsFormsApp_TIC\obj\Debug\WindowsFormsApp_TIC.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\TIC\WindowsFormsApp_TIC\WindowsFormsApp_TIC\obj\Debug\WindowsFormsApp_TIC.Form1.resources
+C:\Users\User\OneDrive\Desktop\TIC\WindowsFormsApp_TIC\WindowsFormsApp_TIC\obj\Debug\WindowsFormsApp_TIC.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\TIC\WindowsFormsApp_TIC\WindowsFormsApp_TIC\obj\Debug\WindowsFormsApp_TIC.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\TIC\WindowsFormsApp_TIC\WindowsFormsApp_TIC\obj\Debug\WindowsFormsApp_TIC.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\TIC\WindowsFormsApp_TIC\WindowsFormsApp_TIC\obj\Debug\WindowsFormsApp_TIC.exe
+C:\Users\User\OneDrive\Desktop\TIC\WindowsFormsApp_TIC\WindowsFormsApp_TIC\obj\Debug\WindowsFormsApp_TIC.pdb
+C:\Users\User\OneDrive\Desktop\TIC\WindowsFormsApp_TIC\WindowsFormsApp_TIC\bin\Debug\WindowsFormsApp_TIC.pdb
+C:\Users\User\OneDrive\Desktop\TIC\WindowsFormsApp_TIC\WindowsFormsApp_TIC\obj\Debug\WindowsFormsApp_TIC.exe.config

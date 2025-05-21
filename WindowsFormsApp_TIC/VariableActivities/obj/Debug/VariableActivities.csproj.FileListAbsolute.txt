@@ -1,0 +1,11 @@
+C:\Users\User\OneDrive\Desktop\TIC\WindowsFormsApp_TIC\VariableActivities\bin\Debug\VariableActivities.exe.config
+C:\Users\User\OneDrive\Desktop\TIC\WindowsFormsApp_TIC\VariableActivities\bin\Debug\VariableActivities.exe
+C:\Users\User\OneDrive\Desktop\TIC\WindowsFormsApp_TIC\VariableActivities\bin\Debug\VariableActivities.pdb
+C:\Users\User\OneDrive\Desktop\TIC\WindowsFormsApp_TIC\VariableActivities\obj\Debug\VariableActivities.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\TIC\WindowsFormsApp_TIC\VariableActivities\obj\Debug\VariableActivities.Form1.resources
+C:\Users\User\OneDrive\Desktop\TIC\WindowsFormsApp_TIC\VariableActivities\obj\Debug\VariableActivities.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\TIC\WindowsFormsApp_TIC\VariableActivities\obj\Debug\VariableActivities.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\TIC\WindowsFormsApp_TIC\VariableActivities\obj\Debug\VariableActivities.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\TIC\WindowsFormsApp_TIC\VariableActivities\obj\Debug\VariableActivities.exe
+C:\Users\User\OneDrive\Desktop\TIC\WindowsFormsApp_TIC\VariableActivities\obj\Debug\VariableActivities.pdb
+C:\Users\User\OneDrive\Desktop\TIC\WindowsFormsApp_TIC\VariableActivities\obj\Debug\VariableActivities.exe.config
