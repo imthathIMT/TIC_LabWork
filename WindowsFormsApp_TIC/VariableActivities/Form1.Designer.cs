@@ -111,9 +111,9 @@
             // 
             // btnToUpper
             // 
-            this.btnToUpper.Location = new System.Drawing.Point(232, 171);
+            this.btnToUpper.Location = new System.Drawing.Point(205, 171);
             this.btnToUpper.Name = "btnToUpper";
-            this.btnToUpper.Size = new System.Drawing.Size(75, 23);
+            this.btnToUpper.Size = new System.Drawing.Size(103, 31);
             this.btnToUpper.TabIndex = 7;
             this.btnToUpper.Text = "To Upper";
             this.btnToUpper.UseVisualStyleBackColor = true;
@@ -123,7 +123,7 @@
             // 
             this.btnToLower.Location = new System.Drawing.Point(364, 171);
             this.btnToLower.Name = "btnToLower";
-            this.btnToLower.Size = new System.Drawing.Size(75, 23);
+            this.btnToLower.Size = new System.Drawing.Size(107, 31);
             this.btnToLower.TabIndex = 8;
             this.btnToLower.Text = "To Lower";
             this.btnToLower.UseVisualStyleBackColor = true;
@@ -162,7 +162,7 @@
             this.lblLength.Name = "lblLength";
             this.lblLength.Size = new System.Drawing.Size(0, 16);
             this.lblLength.TabIndex = 12;
-            this.lblLength.Click += new System.EventHandler(this.label1_Click_1);
+            this.lblLength.Click += new System.EventHandler(this.label1_Click);
             // 
             // lblSubstring
             // 
