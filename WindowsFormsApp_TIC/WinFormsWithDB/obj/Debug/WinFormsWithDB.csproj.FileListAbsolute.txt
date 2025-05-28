@@ -1,0 +1,11 @@
+C:\Users\User\OneDrive\Desktop\TIC\WindowsFormsApp_TIC\WinFormsWithDB\obj\Debug\WinFormsWithDB.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\TIC\WindowsFormsApp_TIC\WinFormsWithDB\obj\Debug\WinFormsWithDB.Form1.resources
+C:\Users\User\OneDrive\Desktop\TIC\WindowsFormsApp_TIC\WinFormsWithDB\obj\Debug\WinFormsWithDB.Properties.Resources.resources
+C:\Users\User\OneDrive\Desktop\TIC\WindowsFormsApp_TIC\WinFormsWithDB\obj\Debug\WinFormsWithDB.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\TIC\WindowsFormsApp_TIC\WinFormsWithDB\obj\Debug\WinFormsWithDB.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\TIC\WindowsFormsApp_TIC\WinFormsWithDB\bin\Debug\WinFormsWithDB.exe.config
+C:\Users\User\OneDrive\Desktop\TIC\WindowsFormsApp_TIC\WinFormsWithDB\bin\Debug\WinFormsWithDB.exe
+C:\Users\User\OneDrive\Desktop\TIC\WindowsFormsApp_TIC\WinFormsWithDB\bin\Debug\WinFormsWithDB.pdb
+C:\Users\User\OneDrive\Desktop\TIC\WindowsFormsApp_TIC\WinFormsWithDB\obj\Debug\WinFormsWithDB.exe
+C:\Users\User\OneDrive\Desktop\TIC\WindowsFormsApp_TIC\WinFormsWithDB\obj\Debug\WinFormsWithDB.pdb
+C:\Users\User\OneDrive\Desktop\TIC\WindowsFormsApp_TIC\WinFormsWithDB\obj\Debug\WinFormsWithDB.exe.config

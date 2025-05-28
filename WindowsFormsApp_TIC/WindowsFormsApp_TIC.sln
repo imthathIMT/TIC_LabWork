@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp_TIC", "Wind
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariableActivities", "VariableActivities\VariableActivities.csproj", "{9C345638-5EA5-4B27-BBA9-52AB887C95B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsWithDB", "WinFormsWithDB\WinFormsWithDB.csproj", "{4CAE95E4-344C-4610-AD84-7348F5311A6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9C345638-5EA5-4B27-BBA9-52AB887C95B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C345638-5EA5-4B27-BBA9-52AB887C95B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C345638-5EA5-4B27-BBA9-52AB887C95B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CAE95E4-344C-4610-AD84-7348F5311A6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CAE95E4-344C-4610-AD84-7348F5311A6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CAE95E4-344C-4610-AD84-7348F5311A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CAE95E4-344C-4610-AD84-7348F5311A6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
