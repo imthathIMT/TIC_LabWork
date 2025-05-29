@@ -7,23 +7,23 @@
       "RelativeMoniker": "D:0:0:{4CAE95E4-344C-4610-AD84-7348F5311A6B}|WinFormsWithDB\\WinFormsWithDB.csproj|solutionrelative:winformswithdb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CAE95E4-344C-4610-AD84-7348F5311A6B}|WinFormsWithDB\\WinFormsWithDB.csproj|c:\\users\\user\\onedrive\\desktop\\tic\\windowsformsapp_tic\\winformswithdb\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4CAE95E4-344C-4610-AD84-7348F5311A6B}|WinFormsWithDB\\WinFormsWithDB.csproj|C:\\Users\\User\\OneDrive\\Desktop\\TIC\\WindowsFormsApp_TIC\\winformswithdb\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CAE95E4-344C-4610-AD84-7348F5311A6B}|WinFormsWithDB\\WinFormsWithDB.csproj|solutionrelative:winformswithdb\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CAE95E4-344C-4610-AD84-7348F5311A6B}|WinFormsWithDB\\WinFormsWithDB.csproj|c:\\users\\user\\onedrive\\desktop\\tic\\windowsformsapp_tic\\winformswithdb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4CAE95E4-344C-4610-AD84-7348F5311A6B}|WinFormsWithDB\\WinFormsWithDB.csproj|C:\\Users\\User\\OneDrive\\Desktop\\TIC\\WindowsFormsApp_TIC\\winformswithdb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4CAE95E4-344C-4610-AD84-7348F5311A6B}|WinFormsWithDB\\WinFormsWithDB.csproj|solutionrelative:winformswithdb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CAE95E4-344C-4610-AD84-7348F5311A6B}|WinFormsWithDB\\WinFormsWithDB.csproj|c:\\users\\user\\onedrive\\desktop\\tic\\windowsformsapp_tic\\winformswithdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4CAE95E4-344C-4610-AD84-7348F5311A6B}|WinFormsWithDB\\WinFormsWithDB.csproj|C:\\Users\\User\\OneDrive\\Desktop\\TIC\\WindowsFormsApp_TIC\\winformswithdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CAE95E4-344C-4610-AD84-7348F5311A6B}|WinFormsWithDB\\WinFormsWithDB.csproj|solutionrelative:winformswithdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C345638-5EA5-4B27-BBA9-52AB887C95B7}|VariableActivities\\VariableActivities.csproj|c:\\users\\user\\onedrive\\desktop\\tic\\windowsformsapp_tic\\variableactivities\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9C345638-5EA5-4B27-BBA9-52AB887C95B7}|VariableActivities\\VariableActivities.csproj|C:\\Users\\User\\OneDrive\\Desktop\\TIC\\WindowsFormsApp_TIC\\variableactivities\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9C345638-5EA5-4B27-BBA9-52AB887C95B7}|VariableActivities\\VariableActivities.csproj|solutionrelative:variableactivities\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CAE95E4-344C-4610-AD84-7348F5311A6B}|WinFormsWithDB\\WinFormsWithDB.csproj|c:\\users\\user\\onedrive\\desktop\\tic\\windowsformsapp_tic\\winformswithdb\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{4CAE95E4-344C-4610-AD84-7348F5311A6B}|WinFormsWithDB\\WinFormsWithDB.csproj|C:\\Users\\User\\OneDrive\\Desktop\\TIC\\WindowsFormsApp_TIC\\winformswithdb\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{4CAE95E4-344C-4610-AD84-7348F5311A6B}|WinFormsWithDB\\WinFormsWithDB.csproj|solutionrelative:winformswithdb\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -46,8 +46,7 @@
               "RelativeToolTip": "WinFormsWithDB\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-05-28T17:32:43.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T17:32:43.025Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "WinFormsWithDB\\Form1.Designer.cs",
               "ViewState": "AgIAAHMAAAAAAAAAAAAAAG8AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T17:14:24.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T17:14:24.566Z"
             },
             {
               "$type": "Document",
@@ -70,7 +68,7 @@
               "RelativeDocumentMoniker": "WinFormsWithDB\\Form1.cs",
               "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\TIC\\WindowsFormsApp_TIC\\WinFormsWithDB\\Form1.cs",
               "RelativeToolTip": "WinFormsWithDB\\Form1.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAiwE8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAiwD4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T16:52:51.472Z",
               "EditorCaption": ""
@@ -84,8 +82,7 @@
               "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\TIC\\WindowsFormsApp_TIC\\WinFormsWithDB\\Form1.cs [Design]",
               "RelativeToolTip": "WinFormsWithDB\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T16:49:52.831Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-28T16:49:52.831Z"
             },
             {
               "$type": "Document",
@@ -97,8 +94,7 @@
               "RelativeToolTip": "WinFormsWithDB\\Program.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAuwDsAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T17:00:27.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-28T17:00:27.558Z"
             },
             {
               "$type": "Document",
@@ -109,8 +105,7 @@
               "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\TIC\\WindowsFormsApp_TIC\\VariableActivities\\Form1.cs [Design]",
               "RelativeToolTip": "VariableActivities\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T04:35:09.239Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-05-22T04:35:09.239Z"
             }
           ]
         }
